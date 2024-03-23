@@ -1,0 +1,13 @@
+.main {
+	margin: 16px auto;
+	text-align: center;
+	display: block;
+}
+.main .text {
+    text-align: left;
+    display: inline-block;
+}
+.main .sub {
+    text-align: left;
+    display: inline-block;
+}
