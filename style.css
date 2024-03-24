@@ -13,3 +13,23 @@
     text-align: left;
     display: inline-block;
 }
+.main .bgc {
+    background: linear-gradient(transparent 0%, transparent 50%, #ffff00 50%, #ffff00 100%);
+    font-weight: bold;
+    display: inline-block;
+}
+.main .bgcl {
+    background: linear-gradient(transparent 0%, transparent 50%, #5AFF19 50%, #5AFF19 100%);
+    font-weight: bold;
+    display: inline-block;
+}
+.main .bgcr {
+    background: linear-gradient(transparent 0%, transparent 50%, #ff0000 50%, #ff0000 100%);
+    font-weight: bold;
+    display: inline-block;
+}
+.main .bgcb {
+    background: linear-gradient(transparent 0%, transparent 50%, #6495ED 50%, #6495ED 100%);
+    font-weight: bold;
+    display: inline-block;
+}
